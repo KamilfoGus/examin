@@ -38,14 +38,7 @@
 <option value="">16:00-17:00</option>
 <option value="">17:00-18:00</option>
 </select>
-<select name="date" id="date">
-<option value="">- - - -</option>
-<option value="">15 декабря</option>
-<option value="">16 декабря</option>
-<option value="">17 декабря</option>
-<option value="">18 декабря</option>
-<option value="">19 декабря</option>
-</select>
+<input type="date">
 <button>Отправить</button>
 
 </div>
